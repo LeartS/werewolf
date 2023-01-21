@@ -43,12 +43,12 @@ comunque limitato numero di personaggi differenti.
 ## Meccanismi di gioco:
 
 #### Auree:
-Le auree rendono leggermente più difficile il compito del medium.
-Se il medium identifica un'area oscura, può essere solo un lupo (tranne il lupo
+Le auree rendono leggermente più difficile il compito del veggente.
+Se il veggente identifica un'area oscura, può essere solo un lupo (tranne il lupo
 docile) o il satanista.
-Se il medium non identifica un'area oscura, può essere solo un villico od il lupo
+Se il veggente non identifica un'area oscura, può essere solo un villico od il lupo
 docile.
-Così facendo il medium può avere sospetti molto forti senza essere quasi mai
+Così facendo il veggente può avere sospetti molto forti senza essere quasi mai
 certo se sia effettivamente un lupo o meno.
 
 #### Spostamenti e case:
@@ -71,7 +71,7 @@ troppo poco)
 
 ## I personaggi
 
-#### Medium
+#### Veggente
 Ogni notte indica una persona e gli viene rivelata se quella persona ha aurea oscura
 
 
@@ -102,7 +102,7 @@ bilanciamento)
 
 
 #### I satanisti
-Sono villici normali ma con area oscura, che confondono il medium.
+Sono villici normali ma con area oscura, che confondono il veggente.
 (da inserire in quantità a discrezione del moderatore per ottenere
 bilanciamento)
 
@@ -185,7 +185,7 @@ consigliati in totale tanti lupi quanti circa 1/5 dei giocatori
 Il lupo docile è l'ultimo nella scala gerarchica, per cui potrà scegliere
 le vittime solo quando saranno morti tutti gli altri lupi più forti tranne uno.
 
-È l'unico lupo a non avere area oscura, per cui confonde il medium ed è più
+È l'unico lupo a non avere area oscura, per cui confonde il veggente ed è più
 difficile farsi scoprire.
 
 ## Per i moderatori
@@ -221,7 +221,7 @@ Poi i giocatori che non si spostano ma chiedono solo informazioni:
 
 5. **Ficcanaso**
 Sceglie un giocatore e li viene rivelato se quel gioctore si trovava a casa sua o meno.
-6. **Medium**
+6. **Veggente**
 Sceglio un giocatore e gli viene rivelato se quel giocatore ha area oscura o meno.
 7. **Becchino**
 Gli viene rivelato se la persona mandata al rogo la sera prima era
